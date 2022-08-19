@@ -63,6 +63,9 @@ Olmak uzere insertion sort islemi gerceklesmistir.
 [Kaynak1](https://www.geeksforgeeks.org/insertion-sort/)
 
 
+ [You can check my PATIKA LEARNING PATH](https://app.patika.dev/mhmtfthaydin)
+
+
 
 
 
